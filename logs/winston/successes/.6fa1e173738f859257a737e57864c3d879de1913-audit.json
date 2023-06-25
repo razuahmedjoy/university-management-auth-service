@@ -34,6 +34,16 @@
             "date": 1687676414362,
             "name": "D:\\Courses\\Next Level Web Development\\mission 3\\university-management-auth-service\\logs\\winston\\successes\\UM-2023-06-25-13-success.log",
             "hash": "c79d3f52b01b4f998edafab8c16d54f88ce2020503599013a7a567b83758ed4d"
+        },
+        {
+            "date": 1687685256053,
+            "name": "D:\\Courses\\Next Level Web Development\\mission 3\\university-management-auth-service\\logs\\winston\\successes\\UM-2023-06-25-15-success.log",
+            "hash": "c591371c6d46a1484e1902c07cc9dc2a00ebacde8380c1a58edbc138e1a6f6a6"
+        },
+        {
+            "date": 1687687204021,
+            "name": "D:\\Courses\\Next Level Web Development\\mission 3\\university-management-auth-service\\logs\\winston\\successes\\UM-2023-06-25-16-success.log",
+            "hash": "4f208836b96f1323245736f6f653c9d519145bd6846d9b8668e2e2435fcb9c4d"
         }
     ],
     "hashType": "sha256"

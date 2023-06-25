@@ -29,7 +29,9 @@ const globalErrorHandler: ErrorRequestHandler = (
         statusCode = simplifiedError.statusCode;
         message = simplifiedError.message;
         errorMessages = simplifiedError.errorMessages;
-    } else if (err instanceof Error) {
+    } else if (err instanceof ApiError) {
+        // console.log(err)
+        statusCode = err?.statusCode;
         message = err?.message;
         errorMessages = err?.message
             ? [
@@ -39,8 +41,7 @@ const globalErrorHandler: ErrorRequestHandler = (
                   },
               ]
             : [];
-    } else if (err instanceof ApiError) {
-        statusCode = err?.statusCode;
+    } else if (err instanceof Error) {
         message = err?.message;
         errorMessages = err?.message
             ? [

@@ -34,6 +34,16 @@
             "date": 1687676414369,
             "name": "D:\\Courses\\Next Level Web Development\\mission 3\\university-management-auth-service\\logs\\winston\\errors\\UM-2023-06-25-13-error.log",
             "hash": "6bbcd9b22e3e949a76d9ceeb4a781fdb30c3709b08501f88def381e06fcef6da"
+        },
+        {
+            "date": 1687685256056,
+            "name": "D:\\Courses\\Next Level Web Development\\mission 3\\university-management-auth-service\\logs\\winston\\errors\\UM-2023-06-25-15-error.log",
+            "hash": "0ffe1722f75a5bfaade119505f9e385cbb8aecb2f51d6ec0d22e9786aa3e26a6"
+        },
+        {
+            "date": 1687687204027,
+            "name": "D:\\Courses\\Next Level Web Development\\mission 3\\university-management-auth-service\\logs\\winston\\errors\\UM-2023-06-25-16-error.log",
+            "hash": "9dfef09d6b2f3fd0c83a54d7248f9347af321be268dfdfe4753bf417276e17d3"
         }
     ],
     "hashType": "sha256"
